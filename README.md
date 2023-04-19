@@ -26,6 +26,7 @@
 
 - [About](#about)
   - [Built With](#built-with)
+  - [Setup](#setup)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -57,6 +58,10 @@ Cafe and Bakery Website with features including user authentication, ordering/ch
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Setup
+
+1. npx create-next-app@latest
 
 
 ## Getting Started

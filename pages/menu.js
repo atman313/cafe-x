@@ -1,6 +1,6 @@
 const Page = () => {
     return (
-        <h1>the menu</h1>
+        <img src="/menu.jpg" alt="menu"/>
     )
 }
 
